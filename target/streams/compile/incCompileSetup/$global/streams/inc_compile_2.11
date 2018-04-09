@@ -1,0 +1,580 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+28 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$anonfun$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$anonfun$2.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$anonfun$3.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator10$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator13$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator14$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator15$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator17$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator3$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator5$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator6$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator7$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator9$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$DeviceGeoGroup$.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$DeviceGeoGroup.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$Geodata$.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$Geodata.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$GeodataUserId$.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$GeodataUserId.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$LocalSession$.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$PaymentInfo$.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$PaymentInfo.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$UserInfo$.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$UserInfo.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package.class
+binary dependencies:
+9 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.2.0.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.2.0.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.2.0.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+28 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$anonfun$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$anonfun$2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$anonfun$3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$typecreator10$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$typecreator13$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$typecreator14$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$typecreator15$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$typecreator17$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$typecreator3$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$typecreator5$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$typecreator6$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$typecreator7$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru.geo.GeoAnalysis$$typecreator9$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package$
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package$DeviceGeoGroup
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package$DeviceGeoGroup$
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package$Geodata
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package$Geodata$
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package$GeodataUserId
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package$GeodataUserId$
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package$LocalSession$
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package$PaymentInfo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package$PaymentInfo$
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package$UserInfo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru.geo.package$UserInfo$
+used names:
+403 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $m
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $m$untyped
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $typecreator10
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $typecreator13
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $typecreator14
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $typecreator15
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $typecreator17
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $typecreator3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $typecreator5
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $typecreator6
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $typecreator7
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $typecreator9
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> $u
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> *
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> +
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> -
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> /
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> <
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> <init>
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> <repeated>
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> =!=
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ===
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ?0
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> A1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> A2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> A3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> A4
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Any
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> AnyRef
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Array
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Boolean
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Builder
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Char
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ClassLoader
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ClassSymbol
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Column
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ColumnName
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> DataFrame
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Dataset
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> DatasetHolder
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> DeviceGeoGroup
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Double
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Encoder
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Function1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Function3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Function4
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> GeoAnalysis
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Geodata
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> GeodataUserId
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Int
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Internal
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> JavaUniverse
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> List
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> MatchError
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Math
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Mirror
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ModuleSymbol
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Nil
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Nothing
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Object
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> PaymentInfo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Predef
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Product
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> R
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> RT
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ReificationSupportApi
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> RelationalGroupedDataset
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Row
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Seq
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> SingleType
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Singleton
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> SparkSession
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> String
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> StringContext
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> StringOps
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> StringToColumn
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Symbol
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> T
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> T0
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> T1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> T2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> T3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> T4
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ThisType
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Timestamp
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Tuple2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Tuple4
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Type
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> TypeCreator
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> TypeRef
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> TypeSymbol
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> TypeTag
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> U
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Unit
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Universe
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> UserDefinedFunction
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> UserInfo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> Window
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> WindowSpec
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> _$7
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> _1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> _2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> _3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> _4
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> _root_
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> a
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> agg
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> apache
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> appName
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> apply
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> as
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> asInstanceOf
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> asModule
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> atan2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> augmentString
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> builder
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> c
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> calcGeoDist
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> calcGeoDistUdf
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> checkPayments
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> checkedPayments
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> collect_list
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> cos
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> count
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> crossJoin
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> data
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> dataWithName
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> defineGeoDeviceGroups
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> delimeter
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> deltaL
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> deltaPhi
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> desc
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> devicesGeoGroups
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> drop
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> excludeMiddlePart
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> expressions
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> extractStringByPos
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> extractStringByPosUdf
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> extractUserName
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> functions
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> geo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> getClass
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> getClassLoader
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> getOrCreate
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> groupBy
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> groupLocalRad
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> immutable
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> implicits
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> initialString
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> internal
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> java
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> lang
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> lat1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> lat2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> lit
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> localSeqToDatasetHolder
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> lon1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> lon2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> master
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> materializeTypeTag
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> mockData
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> moduleClass
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ne
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> newProductEncoder
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> orderBy
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> org
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> over
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> package
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> partitionBy
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> parts
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> phi1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> phi2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> position
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> reflect
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> reificationSupport
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> row_number
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> ru
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> runtime
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> runtimeMirror
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> s
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> scala
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> select
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> selectType
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> show
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> sin
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> spark
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> split
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> sql
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> sqrt
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> staticClass
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> staticModule
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> staticPackage
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> sum
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> td1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> td2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> toDS
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> toRadians
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> trafficData
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> udf
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> universe
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> when
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> where
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> withColumn
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> withColumnRenamed
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> &&
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> *
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> <init>
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> <repeated...>
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> <repeated>
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ==
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ?0
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> A
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Any
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> AnyRef
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Array
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> BigDecimal
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Boolean
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Builder
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ClassTag
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> DeviceGeoGroup
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Double
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> FileAttribute
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Files
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Geodata
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> GeodataUserId
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> IndexOutOfBoundsException
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Int
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Iterator
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Level
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> LocalSession
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Logger
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Long
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> None
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Nothing
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Object
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Option
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Path
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> PaymentInfo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Predef
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Product
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ScalaRunTime
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Seq
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Serializable
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Some
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> SparkSession
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> String
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T0
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T10
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T11
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T12
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T4
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T5
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T6
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T7
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T8
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> T9
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Timestamp
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Tuple11
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Tuple12
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Tuple2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Tuple3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> URI
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> Unit
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> UserInfo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> WARN
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> _$7
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> _hashCode
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> _toString
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> apache
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> appName
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> apply
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> asInstanceOf
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> builder
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> collection
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> config
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> createTempDirectory
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> date
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> device_id
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> double2bigDecimal
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> eq
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> file
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> geo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> getLogger
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> getOrCreate
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> groupLocalRad
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> incomeUnitPrice
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> income_traf
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> isInstanceOf
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> isPaymentCorrect
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> java
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> lattitude
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> localGroup
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> localSpark
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> localityRad
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> log4j
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> longitude
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> master
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> materializeClassTag
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> math
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> mockData
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> nio
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> org
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> outcomeUnitPrice
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> outcome_traf
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> package
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> payment
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> prototype
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> proximityRatio
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> qual$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> qual$2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> qual$3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> qual$4
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> qual$5
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> qual$6
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ru
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> runtime
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> scala
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> setLevel
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> spark
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> spended_time
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> sql
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> toString
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> toUri
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> typedProductIterator
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> user_id
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> user_name
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> user_num_id
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> valueOf
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> warehouseDir
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$10
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$11
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$12
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$13
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$14
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$15
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$16
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$17
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$18
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$19
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$20
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$21
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$22
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$23
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$24
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$25
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$26
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$27
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$28
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$29
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$30
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$31
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$32
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$33
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$34
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$35
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$36
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$37
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$38
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$39
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$4
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$40
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$41
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$42
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$43
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$44
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$45
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$46
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$47
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$48
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$49
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$5
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$50
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$51
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$52
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$53
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$54
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$55
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$56
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$57
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$58
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$59
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$6
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$60
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$61
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$62
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$63
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$64
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$65
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$66
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$7
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$8
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> x$9
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> ||
+product stamps:
+28 items
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$anonfun$1.class -> lastModified(1523308391096)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$anonfun$2.class -> lastModified(1523308391100)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$anonfun$3.class -> lastModified(1523308391107)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator10$1.class -> lastModified(1523308391114)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator13$1.class -> lastModified(1523308391117)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator14$1.class -> lastModified(1523308391123)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator15$1.class -> lastModified(1523308391127)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator17$1.class -> lastModified(1523308391130)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator3$1.class -> lastModified(1523308391134)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator5$1.class -> lastModified(1523308391137)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator6$1.class -> lastModified(1523308391140)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator7$1.class -> lastModified(1523308391143)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$$typecreator9$1.class -> lastModified(1523308391147)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis$.class -> lastModified(1523308391086)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\GeoAnalysis.class -> lastModified(1523308390988)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$.class -> lastModified(1523308391165)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$DeviceGeoGroup$.class -> lastModified(1523308391184)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$DeviceGeoGroup.class -> lastModified(1523308391176)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$Geodata$.class -> lastModified(1523308391201)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$Geodata.class -> lastModified(1523308391197)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$GeodataUserId$.class -> lastModified(1523308391206)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$GeodataUserId.class -> lastModified(1523308391221)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$LocalSession$.class -> lastModified(1523308391233)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$PaymentInfo$.class -> lastModified(1523308391238)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$PaymentInfo.class -> lastModified(1523308391246)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$UserInfo$.class -> lastModified(1523308391257)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package$UserInfo.class -> lastModified(1523308391253)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\classes\ru\geo\package.class -> lastModified(1523308391153)
+source stamps:
+2 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> hash(4dbbebcb895c07950bd1a74433a2c05132a5ff33)
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> hash(9ce1014459ee5bba006a648a4468bb818b0344e0)
+binary stamps:
+6 items
+C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar -> lastModified(1484568878200)
+C:\Users\DELL\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar -> lastModified(1338025419000)
+C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.2.0.jar -> lastModified(1498869487000)
+C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.2.0.jar -> lastModified(1498869654000)
+C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+class names:
+6 items
+C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar -> java.lang.Object
+C:\Users\DELL\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar -> org.apache.log4j.Level
+C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.2.0.jar -> org.apache.spark.sql.Encoder
+C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.2.0.jar -> org.apache.spark.sql.SparkSession$
+C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Product
+C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+internal apis:
+2 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwGthiEwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwp4XcfHQAC0dlb0FuYWx5c2lzc3EAfgAM+UFr23QABm5vdGlmeXNxAH4ADKpEjX50AA1jaGVja1BheW1lbnRzc3EAfgAMO2g+6XQABHdhaXRzcQB+AAxpa2M9dAANJGFzSW5zdGFuY2VPZnNxAH4ADMmdZYR0AAZlcXVhbHNzcQB+AAwpdfMvdAAMYXNJbnN0YW5jZU9mc3EAfgAMB+kewnQADHN5bmNocm9uaXplZHNxAH4ADGvrkmx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMCzR15XQAD2V4dHJhY3RVc2VyTmFtZXNxAH4ADPn/SZl0AARtYWluc3EAfgAM84yJEnQACW5vdGlmeUFsbHNxAH4ADP5LlCF0AAxpc0luc3RhbmNlT2ZzcQB+AAxiSIfUdAACPT1zcQB+AAxbEbisdAAFY2xvbmVzcQB+AAycwi2udAAVZGVmaW5lR2VvRGV2aWNlR3JvdXBzc3EAfgAMpVLLCnQADGRlZmluZUdyb3Vwc3NxAH4ADH138Gx0AAh0b1N0cmluZ3NxAH4ADInICbZ0AAIhPXNxAH4ADHdv2HJ0AAhnZXRDbGFzc3NxAH4ADNsx8I50AAJuZXNxAH4ADOS9MlB0AAJlcXNxAH4ADAuLvBV0AAIjI3NxAH4ADBJSTrZ0AAhmaW5hbGl6ZXNxAH4ADLjEzF50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJydS5nZW8uR2VvQW5hbHlzaXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBmc3EAfgBhdXEAfgBEAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBKcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHEAfgAjdXEAfgBZAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBlc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXHQABVBsYWludAADYXJnc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB1WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBlc3EAfgB0dAAFQXJyYXlxAH4AenVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB0dAAGU3RyaW5nc3EAfgB4c3EAfgB7dXEAfgB+AAAAA3NxAH4AgHQABGphdmFzcQB+AIB0AARsYW5ncQB+AIVzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXEAfgCZAAAAAnNxAH4AdHQABk9iamVjdHEAfgCdc3EAfgB0dAADQW55cQB+AHp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZydS5nZW9zcQB+AK50AAJydXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqxBUQt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAQzpcVXNlcnNcREVMTFxJZGVhUHJvamVjdHNcZ2VvYW5hbHlzaXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFE2768uJXAeVC9GnRDOiwFEypf8z
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwK0h6gAABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABGc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw91Oj5nQADkRldmljZUdlb0dyb3Vwc3EAfgAMZ8X1UnQABm5vdGlmeXNxAH4ADKqZsz10AAd1bmFwcGx5c3EAfgAMfU4r+XQADHdhcmVob3VzZURpcnNxAH4ADBMT3wt0AAdwYWNrYWdlc3EAfgAMyua4CHQADnByb3hpbWl0eVJhdGlvc3EAfgAMWtsAQ3QACWRldmljZV9pZHNxAH4ADIzG62B0AAR3YWl0c3EAfgAMOvgGEXQADUdlb2RhdGFVc2VySWRzcQB+AAwSIL5CdAAMc3BlbmRlZF90aW1lc3EAfgAMMsaIZXQADG91dGNvbWVfdHJhZnNxAH4ADLstdJl0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADBGo8+Z0AA0kYXNJbnN0YW5jZU9mc3EAfgAMYo7a4nQADmNvcHkkZGVmYXVsdCQ1c3EAfgAMbLskRXQADHByb2R1Y3RBcml0eXNxAH4ADK9sFAJ0AAZlcXVhbHNzcQB+AAz9eN1vdAAOY29weSRkZWZhdWx0JDlzcQB+AAxeiGMUdAAPY29weSRkZWZhdWx0JDEyc3EAfgAMKF85A3QADGFzSW5zdGFuY2VPZnNxAH4ADFK80GF0AA1ncm91cExvY2FsUmFkc3EAfgAMZN/v43QADHN5bmNocm9uaXplZHNxAH4ADDKsI7V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMj+xz+nQADmNvcHkkZGVmYXVsdCQ4c3EAfgAMgg++SHQACGNhbkVxdWFsc3EAfgAMVZWH33QADmNvcHkkZGVmYXVsdCQ0c3EAfgAMnuBFLnQADXByb2R1Y3RQcmVmaXhzcQB+AAyvQzaFdAAJbm90aWZ5QWxsc3EAfgAM1c2BG3QACWxvbmdpdHVkZXNxAH4ADBObzL90AAd1c2VyX2lkc3EAfgAMU4ngkXQACmxvY2FsU3BhcmtzcQB+AAz5s7B9dAAMaXNJbnN0YW5jZU9mc3EAfgAMw36ttXQACWxhdHRpdHVkZXNxAH4ADIVrROd0AAdwYXltZW50c3EAfgAMSp4yrHQABjxpbml0PnNxAH4ADIyNuct0AAtsb2NhbGl0eVJhZHNxAH4ADDGsGTF0AAtpbmNvbWVfdHJhZnNxAH4ADMnMYI10AAVhcHBseXNxAH4ADMQ7t990AARkYXRlc3EAfgAMf0cWSHQAAj09c3EAfgAMmpt5sHQABWNsb25lc3EAfgAMD8kvHHQADmNvcHkkZGVmYXVsdCQ3c3EAfgAMZwxP2XQAD2NvcHkkZGVmYXVsdCQxMHNxAH4ADBCG9cx0AAYkaW5pdCRzcQB+AAyl9fFedAAMTG9jYWxTZXNzaW9uc3EAfgAMQmsYaXQADmNvcHkkZGVmYXVsdCQzc3EAfgAMtxM443QACFVzZXJJbmZvc3EAfgAMIfmTuHQABGNvcHlzcQB+AAwTD/fhdAAIdG9TdHJpbmdzcQB+AAxhJ5A+dAAQb3V0Y29tZVVuaXRQcmljZXNxAH4ADA6VBXJ0AAIhPXNxAH4ADP5O0Cd0AAlwcm90b3R5cGVzcQB+AAxpYD2idAAHR2VvZGF0YXNxAH4ADMPPIoZ0AAhnZXRDbGFzc3NxAH4ADAYFL9l0AAtQYXltZW50SW5mb3NxAH4ADIN9x1t0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADJ58SAN0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADHIEg8x0AAJuZXNxAH4ADHL870N0AApsb2NhbEdyb3Vwc3EAfgAMMrtJtnQAC3VzZXJfbnVtX2lkc3EAfgAM/AVH5nQACXVzZXJfbmFtZXNxAH4ADCX8Bat0AA9jb3B5JGRlZmF1bHQkMTFzcQB+AAw5baJddAAIbW9ja0RhdGFzcQB+AAwoUF17dAAQaXNQYXltZW50Q29ycmVjdHNxAH4ADAxl4XR0AAJlcXNxAH4ADNrYcxV0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAx9apoUdAAPaW5jb21lVW5pdFByaWNlc3EAfgAMFAB+tHQAAiMjc3EAfgAM/txBPXQACGZpbmFsaXplc3EAfgAM4mvsTXQADnByb2R1Y3RFbGVtZW50c3EAfgAMywDehHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ao3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADnJ1Lmdlby5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgC7c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AKNMAAlpbmhlcml0ZWRxAH4Ao0wAB3BhcmVudHNxAH4Ao3hxAH4AwHNxAH4Au3VxAH4AngAAAABzcQB+ALt1cQB+AJ4AAAAAc3EAfgC7dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC/dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC/c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDYdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDZc3EAfgDMdAADQW55c3EAfgDQc3EAfgDTdXEAfgDWAAAAAnNxAH4A2HQABXNjYWxhcQB+AN91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZydS5nZW9zcQB+AOl0AAJydXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqxBUQt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAQzpcVXNlcnNcREVMTFxJZGVhUHJvamVjdHNcZ2VvYW5hbHlzaXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJzhAURZ7lu6AGpkikRou4GLA0Tg
+external apis:
+0 items
+source infos:
+2 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\GeoAnalysis.scala -> 
+AAAAAAAAAAA=
+C:\Users\DELL\IdeaProjects\geoanalysis\src\main\scala\ru\geo\package.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqxBUQt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQEM6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXGdlb2FuYWx5c2lzXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv

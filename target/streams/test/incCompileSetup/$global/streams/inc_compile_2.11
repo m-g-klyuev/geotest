@@ -1,0 +1,600 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+21 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\package$.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\package$SparkTest$class.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\package$SparkTest.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\package.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$1$$typecreator2$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$2$$typecreator13$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$2$$typecreator5$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$2$$typecreator9$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$2.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$3$$typecreator15$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$3.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$4$$typecreator19$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$4$$typecreator23$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$4.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$5$$typecreator25$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$5.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$6$$typecreator29$1.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$6.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$7.class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo.class
+binary dependencies:
+9 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.2.0.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.2.0.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.2.0.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala
+member reference external dependencies:
+3 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> ru.geo.package$
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.geo.GeoAnalysis$
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.geo.package$
+inheritance internal dependencies:
+1 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala
+inheritance external dependencies:
+0 items
+class names:
+21 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> ru.testgeo.package
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> ru.testgeo.package$
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> ru.testgeo.package$SparkTest
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> ru.testgeo.package$SparkTest$class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$1$$typecreator2$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$2$$typecreator13$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$2$$typecreator5$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$2$$typecreator9$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$3$$typecreator15$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$4
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$4$$typecreator19$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$4$$typecreator23$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$5
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$5$$typecreator25$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$6
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$6$$typecreator29$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru.testgeo.TestGeo$$anonfun$7
+used names:
+436 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> <init>
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> AnyRef
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> LocalSession
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> Object
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> SparkSession
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> SparkTest
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> apache
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> geo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> localSpark
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> org
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> package
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> ru
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> scala
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> spark
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> sql
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> testgeo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> $m
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> $m$untyped
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> $typecreator13
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> $typecreator15
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> $typecreator19
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> $typecreator2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> $typecreator23
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> $typecreator25
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> $typecreator29
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> $typecreator5
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> $typecreator9
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> $u
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> <byname>
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> <init>
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> <repeated>
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> A
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Any
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> AnyShouldWrapper
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Array
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> BigDecimal
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Boolean
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Class
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ClassLoader
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ClassSymbol
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ClassTag
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Dataset
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> DatasetHolder
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> DeviceGeoGroup
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Double
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Encoder
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> GeoAnalysis
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Geodata
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> GeodataUserId
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Internal
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> JavaUniverse
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> List
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Matchers
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Mirror
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ModuleSymbol
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Nil
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Nothing
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Object
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Option
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> PaymentInfo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Predef
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Product
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ReificationSupportApi
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> RootClass
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Seq
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> SingleType
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Singleton
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Some
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> SparkSession
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> SparkTest
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> String
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Symbol
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> T
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> T0
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> TestGeo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Timestamp
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Tuple2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Type
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> TypeCreator
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> TypeRef
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> TypeTag
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> U
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Unit
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> Universe
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> UserInfo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> WordSpecLike
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> WordSpecStringWrapper
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> _$7
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> _1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> _2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> apply
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> asInstanceOf
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> checkPayments
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> collect
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> collection
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> convertToAnyShouldWrapper
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> convertToWordSpecStringWrapper
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> defineGeoDeviceGroups
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> double2bigDecimal
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> emptyDataset
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> extractUserName
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> geo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> getClassLoader
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> immutable
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> implicits
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> in
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> internal
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> java
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> localSeqToDatasetHolder
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> main
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> materializeClassTag
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> materializeTypeTag
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> math
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> newProductEncoder
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> org
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> package
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> prototype
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$10
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$11
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$12
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$13
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$14
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$15
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$16
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$17
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$18
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$19
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$20
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$21
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$22
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$23
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$24
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$4
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$5
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$6
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$7
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$8
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> qual$9
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> reflect
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> reificationSupport
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> ru
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> runtime
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> runtimeMirror
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> scala
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> scalatest
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> shouldBe
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> spark
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> sql
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> staticClass
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> staticModule
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> staticPackage
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> testData
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> testRes
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> testgeo
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> thisPrefix
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> toDS
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> universe
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> valueOf
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$1
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$10
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$100
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$101
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$102
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$103
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$104
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$105
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$106
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$107
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$108
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$109
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$11
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$110
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$111
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$112
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$113
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$114
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$115
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$116
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$117
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$118
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$119
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$12
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$120
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$121
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$122
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$123
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$124
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$125
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$126
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$127
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$128
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$129
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$13
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$130
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$131
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$132
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$133
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$134
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$135
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$136
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$137
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$138
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$139
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$14
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$140
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$141
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$142
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$143
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$144
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$145
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$146
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$147
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$148
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$149
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$15
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$150
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$151
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$152
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$153
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$154
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$155
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$156
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$157
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$158
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$159
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$16
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$160
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$161
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$162
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$163
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$164
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$165
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$166
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$167
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$168
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$169
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$17
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$170
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$171
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$172
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$173
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$174
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$175
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$176
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$177
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$178
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$179
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$18
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$180
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$181
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$182
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$183
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$184
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$185
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$186
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$187
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$188
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$189
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$19
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$190
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$191
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$192
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$193
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$194
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$195
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$196
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$197
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$198
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$199
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$2
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$20
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$200
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$201
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$202
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$203
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$204
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$205
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$206
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$207
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$208
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$209
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$21
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$210
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$211
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$212
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$213
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$214
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$215
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$216
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$217
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$218
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$219
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$22
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$220
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$221
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$222
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$223
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$224
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$225
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$226
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$227
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$228
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$229
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$23
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$230
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$231
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$232
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$233
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$234
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$235
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$236
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$237
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$238
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$239
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$24
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$240
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$241
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$242
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$243
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$244
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$245
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$246
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$247
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$248
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$249
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$25
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$250
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$251
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$252
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$253
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$254
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$255
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$256
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$257
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$258
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$259
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$26
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$260
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$261
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$262
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$263
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$264
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$265
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$266
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$267
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$268
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$269
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$27
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$270
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$271
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$272
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$273
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$274
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$275
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$28
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$29
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$3
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$30
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$31
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$32
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$33
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$34
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$35
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$36
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$37
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$38
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$39
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$4
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$40
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$41
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$42
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$43
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$44
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$45
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$46
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$47
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$48
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$49
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$5
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$50
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$51
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$52
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$53
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$54
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$55
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$56
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$57
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$58
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$59
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$6
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$60
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$61
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$62
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$63
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$64
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$65
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$66
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$67
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$68
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$69
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$7
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$70
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$71
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$72
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$73
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$74
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$75
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$76
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$77
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$78
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$79
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$8
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$80
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$81
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$82
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$83
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$84
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$85
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$86
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$87
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$88
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$89
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$9
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$90
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$91
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$92
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$93
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$94
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$95
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$96
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$97
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$98
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> x$99
+product stamps:
+21 items
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\package$.class -> lastModified(1523308394131)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\package$SparkTest$class.class -> lastModified(1523308394136)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\package$SparkTest.class -> lastModified(1523308394133)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\package.class -> lastModified(1523308394129)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$1$$typecreator2$1.class -> lastModified(1523308394072)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$1.class -> lastModified(1523308394067)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$2$$typecreator13$1.class -> lastModified(1523308394085)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$2$$typecreator5$1.class -> lastModified(1523308394087)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$2$$typecreator9$1.class -> lastModified(1523308394090)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$2.class -> lastModified(1523308394082)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$3$$typecreator15$1.class -> lastModified(1523308394096)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$3.class -> lastModified(1523308394093)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$4$$typecreator19$1.class -> lastModified(1523308394106)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$4$$typecreator23$1.class -> lastModified(1523308394109)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$4.class -> lastModified(1523308394103)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$5$$typecreator25$1.class -> lastModified(1523308394114)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$5.class -> lastModified(1523308394112)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$6$$typecreator29$1.class -> lastModified(1523308394124)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$6.class -> lastModified(1523308394121)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo$$anonfun$7.class -> lastModified(1523308394127)
+C:\Users\DELL\IdeaProjects\geoanalysis\target\scala-2.11\test-classes\ru\testgeo\TestGeo.class -> lastModified(1523308394063)
+source stamps:
+2 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> hash(a1316ae525ea5f87a6262f5cc08db9cee2f90763)
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> hash(a248d5e6fc6f7149e6827cea19824886e1eeb6da)
+binary stamps:
+6 items
+C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar -> lastModified(1484568878200)
+C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.2.0.jar -> lastModified(1498869487000)
+C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.2.0.jar -> lastModified(1498869654000)
+C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+C:\Users\DELL\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.6.jar -> lastModified(1452019761000)
+class names:
+6 items
+C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar -> java.lang.Object
+C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.2.0.jar -> org.apache.spark.sql.Encoder
+C:\Users\DELL\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.2.0.jar -> org.apache.spark.sql.SparkSession$
+C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Unit
+C:\Users\DELL\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+C:\Users\DELL\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.6.jar -> org.scalatest.Matchers
+internal apis:
+2 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOZ+X8QABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHArh2BadAAFc3Bhcmt1cQB+AAkAAAAWc3EAfgALwnYq/HQABm5vdGlmeXNxAH4AC8YHkGR0AAdwYWNrYWdlc3EAfgALJDOCeXQABHdhaXRzcQB+AAtCayXCdAANJGFzSW5zdGFuY2VPZnNxAH4ACwGd5Wt0AAZlcXVhbHNzcQB+AAvWl90/dAAMYXNJbnN0YW5jZU9mc3EAfgALnG+ZynQADHN5bmNocm9uaXplZHNxAH4AC0VgWO90AA0kaXNJbnN0YW5jZU9mc3EAfgALTO5l3XQACW5vdGlmeUFsbHNxAH4ACw3BfPd0AAxpc0luc3RhbmNlT2ZzcQB+AAvseQB7dAACPT1zcQB+AAsXKri1dAAFY2xvbmVzcQB+AAu3GHJZdAAGJGluaXQkc3EAfgALG4GwNnQACHRvU3RyaW5nc3EAfgALpHM5jHQAAiE9c3EAfgAL6XR4z3QACGdldENsYXNzc3EAfgALSNKDv3QAAm5lc3EAfgALaiNtAXQACVNwYXJrVGVzdHNxAH4AC8n84B10AAJlcXNxAH4AC1Sg16B0AAIjI3NxAH4AC3Zmp8F0AAhmaW5hbGl6ZXNxAH4ACyPFWLl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJydS50ZXN0Z2VvLnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBic3EAfgBddXEAfgBAAAAAAHNxAH4AXXVxAH4AQAAAAABzcQB+AF11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHtzcQB+AG50AANBbnlzcQB+AHJzcQB+AHV1cQB+AHgAAAACc3EAfgB6dAAFc2NhbGFxAH4AgXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACnJ1LnRlc3RnZW9zcQB+AIt0AAJydXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqxBa+x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABFQzpcVXNlcnNcREVMTFxJZGVhUHJvamVjdHNcZ2VvYW5hbHlzaXNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUoTFq5SXqX4emJi9cwI25zuL5B2M=
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwy/WCEAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAA1zcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHD2DcOWdAAaY29udmVydFRvU3RyaW5nTXVzdFdyYXBwZXJzcQB+AAvz8LZNdAAZY29udmVydFRvU3RyaW5nQ2FuV3JhcHBlcnNxAH4AC1jJM7t0AB5jb252ZXJ0VG9Xb3JkU3BlY1N0cmluZ1dyYXBwZXJzcQB+AAuvCw0KdAAZY29udmVydFRvQW55U2hvdWxkV3JhcHBlcnNxAH4ACxthD6Z0ACJjb252ZXJ0TnVtZXJpY1RvUGx1c09yTWludXNXcmFwcGVyc3EAfgALypZp+XQAEmNvbnZlcnRUb0VxdWFsaXplcnNxAH4AC9zX/mh0AChzdWJqZWN0V2l0aEFmdGVyV29yZFJlZ2lzdHJhdGlvbkZ1bmN0aW9uc3EAfgALqWJJynQABXNwYXJrc3EAfgALiDQnI3QAFWNvbnZlcnRUb1JlZ2V4V3JhcHBlcnNxAH4AC8ksYQt0ABV1bmNvbnN0cmFpbmVkRXF1YWxpdHlzcQB+AAt3hL2JdAAcY29udmVydFRvU3RyaW5nU2hvdWxkV3JhcHBlcnNxAH4AC8VvJRZ0ACtjb252ZXJ0U3ltYm9sVG9IYXZlUHJvcGVydHlNYXRjaGVyR2VuZXJhdG9yc3EAfgALJuApDHQAG3N1YmplY3RSZWdpc3RyYXRpb25GdW5jdGlvbnVxAH4ACQAAAOZzcQB+AAsNtzmadAALaW5PcmRlck9ubHlzcQB+AAvbNntEdAAGYXNzZXJ0c3EAfgALG++59nQAHlJlc3VsdE9mU3RhcnRXaXRoV29yZEZvclN0cmluZ3NxAH4AC/ohqA10ABJQbHVzT3JNaW51c1dyYXBwZXJzcQB+AAsCCxlpdAAGbm90aWZ5c3EAfgALp2m9gXQAJmxvd1ByaW9yaXR5Q29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgALL2LfbnQACXNob3VsZE5vdHNxAH4ACxNA70R0ABVXb3JkU3BlY1N0cmluZ1dyYXBwZXJzcQB+AAtqzM67dAAFcmVnZXhzcQB+AAtLOr8gdAAGQW5Xb3Jkc3EAfgAL0EviA3QAB3Byb2R1Y2VzcQB+AAv5iEi7dAAQQXNzZXJ0aW9uc0hlbHBlcnNxAH4ACxB5YXB0AAZjYW5jZWxzcQB+AAuryirQdAARZXhlY3V0ZSRkZWZhdWx0JDJzcQB+AAtOCwEidAAMZXhwZWN0UmVzdWx0c3EAfgALScbML3QACWludGVyY2VwdHNxAH4ACwhlSoV0AARmYWlsc3EAfgALA1VjTHQABG5hbWVzcQB+AAtDpFFBdAACaW5zcQB+AAtlYxm2dAAcSGF2ZVByb3BlcnR5TWF0Y2hlckdlbmVyYXRvcnNxAH4AC43pT+x0AAVBV29yZHNxAH4ACzcz6EV0AARoYXZlc3EAfgALnGaz23QAFGFzc2VydERvZXNOb3RDb21waWxlc3EAfgALoALGjHQAEWV4ZWN1dGUkZGVmYXVsdCQ0c3EAfgALjlxA7XQAIlJlc3VsdE9mQ29udGFpbldvcmRGb3JDb2xsZWN0ZWRBbnlzcQB+AAs2QrzVdAACaXNzcQB+AAsvL4gbdAAHZXhlY3V0ZXNxAH4ACxiy37Z0AAR3YWl0c3EAfgALk7qveXQADkRldGVybWluZWRXb3Jkc3EAfgALM2itVHQAC3Rlc3REYXRhRm9yc3EAfgALngKufHQAE2NyZWF0ZUNhdGNoUmVwb3J0ZXJzcQB+AAtryxp8dAACPD1zcQB+AAs8A4nedAAJc3R5bGVOYW1lc3EAfgALKJeMbHQADWxlZnRTaWRlVmFsdWVzcQB+AAuqotEOdAANJGFzSW5zdGFuY2VPZnNxAH4AC0UdV5V0AAVlbXB0eXNxAH4ACzn+R6F0AAlzdGFydFdpdGhzcQB+AAtX6omKdAAEc2l6ZXNxAH4AC15FTfl0ABFleGVjdXRlJGRlZmF1bHQkM3NxAH4ACxiHHIl0AAVjbGF6enNxAH4ACyH5SsF0ABRSZXN1bHRPZkNvbGxlY3RlZEFueXNxAH4ACyaA3wp0AAVleGlzdHNxAH4AC78Cc6Z0AAlBZnRlcldvcmRzcQB+AAv6eGYIdAAJY29uZmlnTWFwc3EAfgALGomDO3QACVZhbHVlV29yZHNxAH4AC6lL17t0AAZlcXVhbHNzcQB+AAsc/IBqdAAMYXRMZWFzdE9uZU9mc3EAfgALm+/7cHQAB2F0TGVhc3RzcQB+AAuiL/UCdAAIdGhyb3duQnlzcQB+AAssF1OAdAAZUmVzdWx0T2ZQcm9kdWNlSW52b2NhdGlvbnNxAH4AC7dD/UV0ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0FUb0JDb252ZXJzaW9uQ29uc3RyYWludHNxAH4ACw3pO7V0AA9kZWZhdWx0RXF1YWxpdHlzcQB+AAs3cSiIdAAiY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29uc3RyYWludHNxAH4AC+/O73V0ABxSZXN1bHRPZkVuZFdpdGhXb3JkRm9yU3RyaW5nc3EAfgALmBR9l3QABG11c3RzcQB+AAsE3qwhdAADYWxsc3EAfgAL72uRNXQABHRhZ3NzcQB+AAsMUxI3dAAMYXNJbnN0YW5jZU9mc3EAfgAL+YOmcHQAATxzcQB+AAt2Ub35dAAFYWxlcnRzcQB+AAuS7qSTdAAHaW5PcmRlcnNxAH4AC532dsh0AANydW5zcQB+AAvNZdASdAARRGVjaWRlZEJ5RXF1YWxpdHlzcQB+AAuJcphGdAAFZXZlcnlzcQB+AAuUq0HGdAAPTGVnYWN5RXF1YWxpemVyc3EAfgALnee013QABnNjb3Blc3NxAH4AC10I7d90ABhjb252ZXJ0VG9MZWdhY3lFcXVhbGl6ZXJzcQB+AAuaxctIdAAKd2l0aEdyb3Vwc3NxAH4AC67EFBJ0AAxzeW5jaHJvbml6ZWRzcQB+AAs3HgYTdAAEbGVmdHNxAH4AC8eL5110AAJpdHNxAH4AC0DS/vR0AApldmFsdWF0aW5nc3EAfgAL5tGWAnQAB0tleVdvcmRzcQB+AAsb+Fn+dAARdGhlU2FtZUVsZW1lbnRzQXNzcQB+AAtSOhg/dAAOYXNzZXJ0Q29tcGlsZXNzcQB+AAtRcg0VdAAKZGV0ZXJtaW5lZHNxAH4AC3n89il0AAFhc3EAfgAL66Shp3QADmxlZnRTaWRlU3RyaW5nc3EAfgALK4dc33QADSRpc0luc3RhbmNlT2ZzcQB+AAsUrkfadAAEdHJhcHNxAH4AC/f4HRV0ABV0ZXN0RGF0YUZvciRkZWZhdWx0JDJzcQB+AAtp0QdLdAAMYXNzZXJ0UmVzdWx0c3EAfgAL+dldwXQAHlJlc3VsdE9mTm90V29yZEZvckNvbGxlY3RlZEFueXNxAH4AC1GQtpJ0AAI+PXNxAH4AC6K2pbR0AAtwbHVzT3JNaW51c3NxAH4AC49tvLd0ABdTdHJpbmdDYW5XcmFwcGVyRm9yVmVyYnNxAH4ACypeOjd0AAR0ZXh0c3EAfgALJoVZkHQAJVJlc3VsdE9mSW5jbHVkZVdvcmRGb3JDb2xsZWN0ZWRTdHJpbmdzcQB+AAuwxh+ddAAsY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAslyGh+dAAHY29udGFpbnNxAH4AC5KcWhp0AAR0aGV5c3EAfgALkpVh43QAB2NvbXBpbGVzcQB+AAsFzA1sdAARZXhlY3V0ZSRkZWZhdWx0JDdzcQB+AAtPjyq9dAAHZXhhY3RseXNxAH4ACzBdua50ABF0aGVTYW1lSW5zdGFuY2VBc3NxAH4AC4amSwN0ACdSZXN1bHRPZlN0YXJ0V2l0aFdvcmRGb3JDb2xsZWN0ZWRTdHJpbmdzcQB+AAvv0lM7dAALRGVjaWRlZFdvcmRzcQB+AAtaAd46dAAVdHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALmg9orXQAAyE9PXNxAH4ACzenoxJ0AAZhdE1vc3RzcQB+AAu9o68RdAAEaW5mb3NxAH4AC+gY+Xh0AAtub0V4Y2VwdGlvbnNxAH4AC+KNh690AAlub3RpZnlBbGxzcQB+AAv2Ih/HdAAEdGhhdHNxAH4AC2bNcAl0AAt3aXRoRml4dHVyZXNxAH4AC+SXsHt0AAdydW5UZXN0c3EAfgALD18ZqXQAHVJlc3VsdE9mQmVXb3JkRm9yQ29sbGVjdGVkQW55c3EAfgALBgHA43QAA2tleXNxAH4ACzlJiEF0AAxpc0luc3RhbmNlT2ZzcQB+AAvKQXSqdAAId2l0aENsdWVzcQB+AAtGJ9BZdAAQYXNzZXJ0aW9uc0hlbHBlcnNxAH4ACwhB63F0ABFleGVjdXRlJGRlZmF1bHQkNnNxAH4AC9LmM2h0AAh0YWdnZWRBc3NxAH4AC8yrGKl0AA9hc3NlcnRUeXBlRXJyb3JzcQB+AAuvQdMRdAAlUmVzdWx0T2ZFbmRXaXRoV29yZEZvckNvbGxlY3RlZFN0cmluZ3NxAH4AC0TlWZt0AAZtYXJrdXBzcQB+AAuSao68dAAIbGVmdFNpZGVzcQB+AAtart/BdAAGPGluaXQ+c3EAfgALn7TCN3QAC21hY3JvQXNzdW1lc3EAfgALdq+LMXQAD3J1bk5lc3RlZFN1aXRlc3NxAH4AC8KzaI90ABlSZXN1bHRPZkhhdmVXb3JkRm9yRXh0ZW50c3EAfgAL4UuCa3QAA2NhbnNxAH4AC3WZRep0AAViZWluZ3NxAH4AC8dSXA50AAVlcXVhbHNxAH4AC2S6MjN0AAZJdFdvcmRzcQB+AAs4Q7RLdAAIYXJlRXF1YWxzcQB+AAsjJ13edAAGbm9uZU9mc3EAfgAL8C755nQABWFwcGx5c3EAfgALJYueK3QACXdpdGhHcm91cHNxAH4AC2skgw10AAVhZnRlcnNxAH4AC54dzth0AAlFcXVhbGl6ZXJzcQB+AAsuUKjndAAKYWZ0ZXJCZWluZ3NxAH4AC86nUkp0ACJSZXN1bHRPZlRhZ2dlZEFzSW52b2NhdGlvbk9uU3RyaW5nc3EAfgALRdEoY3QAB1Rlc3RHZW9zcQB+AAu6gC9FdAAbbmV3QXNzZXJ0aW9uRmFpbGVkRXhjZXB0aW9uc3EAfgALYmT05XQABG5vdGVzcQB+AAuNvZmFdAACPT1zcQB+AAvS5GXxdAACYnlzcQB+AAtU98qLdAAGc29ydGVkc3EAfgALH0ao2nQACmZ1bGx5TWF0Y2hzcQB+AAtcElYndAAFY2xvbmVzcQB+AAsQzsEcdAATU3RyaW5nU2hvdWxkV3JhcHBlcnNxAH4AC6d8e0V0AAZleHBlY3RzcQB+AAtZskJCdAAGc2hvdWxkc3EAfgAL4iNi63QAEEFueVNob3VsZFdyYXBwZXJzcQB+AAtWRdDzdAAXRGV0ZXJtaW5lZEJ5RXF1aXZhbGVuY2VzcQB+AAu89dGwdAADbm90c3EAfgALVwRPxHQAH1Jlc3VsdE9mQmVXb3JkRm9yQ29sbGVjdGVkQXJyYXlzcQB+AAs0sPWfdAAJZGVmaW5lZEF0c3EAfgALi1bvjXQADG5lc3RlZFN1aXRlc3NxAH4AC88qQ3J0AANmdW5zcQB+AAvTblANdAAGYXNzdW1lc3EAfgALeQF/JHQABiRpbml0JHNxAH4ACwY4VkN0AAdkZWZpbmVkc3EAfgALZa8JinQAIGxvd1ByaW9yaXR5VHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgAL7iF5zHQAB2luY2x1ZGVzcQB+AAu+jNpwdAAIVGhleVdvcmRzcQB+AAvwGooSdAAMcmVnaXN0ZXJUZXN0c3EAfgAL3K8ZRXQACXR5cGVDaGVja3NxAH4AC2vTRAR0ABFleGVjdXRlJGRlZmF1bHQkNXNxAH4AC6odIzB0AAM9PT1zcQB+AAv5Y3qIdAAYbmV3VGVzdENhbmNlbGVkRXhjZXB0aW9uc3EAfgAL1pdiAnQAB21lc3NhZ2VzcQB+AAsLxxnidAAIdG9TdHJpbmdzcQB+AAt1comwdAAJYWZ0ZXJXb3Jkc3EAfgALArJVB3QABXdoaWNoc3EAfgALqXJhtXQACXRlc3ROYW1lc3NxAH4AC0dArjB0AAJhbnNxAH4AC0oue2p0AAZsZW5ndGhzcQB+AAv7oKUYdAAYU3RyaW5nTXVzdFdyYXBwZXJGb3JWZXJic3EAfgALLYYUJnQAEWV4ZWN1dGUkZGVmYXVsdCQxc3EAfgALrVxv9nQAAmJlc3EAfgALY1Ysk3QAAiE9c3EAfgALSq8NnnQAIlJlc3VsdE9mSGF2ZVdvcmRGb3JDb2xsZWN0ZWRFeHRlbnRzcQB+AAupa3JYdAAfUmVzdWx0T2ZGdWxseU1hdGNoV29yZEZvclN0cmluZ3NxAH4AC8j7qnZ0AAxtYXRjaFBhdHRlcm5zcQB+AAsVBo3ldAAXTGVnYWN5Q2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAvuqZAWdAAIZ2V0Q2xhc3NzcQB+AAuR2aI2dAATcmVnaXN0ZXJJZ25vcmVkVGVzdHNxAH4AC0nb/VZ0AAZiZWhhdmVzcQB+AAtAbjgwdAAIcnVuVGVzdHNzcQB+AAvASbDYdAARcGVuZGluZ1VudGlsRml4ZWRzcQB+AAty/KxbdAAYdGhlU2FtZUVsZW1lbnRzSW5PcmRlckFzc3EAfgALV5AvYXQAF1RoZVNhbWVJbnN0YW5jZUFzUGhyYXNlc3EAfgALoSo5dnQADWFyZUVxdWl2YWxlbnRzcQB+AAskd3KudAAHYmV0d2VlbnNxAH4AC6YKg390AAdkZWNpZGVkc3EAfgALFfScmXQAFFJlc3VsdE9mQmVXb3JkRm9yQW55c3EAfgAL6Ac12HQAEWV4cGVjdGVkVGVzdENvdW50c3EAfgALJOM+cXQAB2VuZFdpdGhzcQB+AAvSStGGdAAIcmVydW5uZXJzcQB+AAszONKedAALc2hvdWxkRXF1YWxzcQB+AAvLToXRdAAJUmVnZXhXb3Jkc3EAfgALEzvvX3QADFRoZUFmdGVyV29yZHNxAH4ACxFiuF50ACJjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb25zdHJhaW50c3EAfgALusEq1nQABW9uZU9mc3EAfgALRuIXSnQAAm5lc3EAfgALGy9jTXQAAm5vc3EAfgALqOKSt3QAKFJlc3VsdE9mRnVsbHlNYXRjaFdvcmRGb3JDb2xsZWN0ZWRTdHJpbmdzcQB+AAtub6l6dAALZG9Db2xsZWN0ZWRzcQB+AAvYqcKYdAARQ2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAuGux3wdAAgY29udmVydFRvTGVnYWN5Q2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAucB18+dAAId3JpdGFibGVzcQB+AAt5QlthdAAdUmVzdWx0T2ZFdmFsdWF0aW5nQXBwbGljYXRpb25zcQB+AAuyknhudAAHcGVuZGluZ3NxAH4ACwwLs8d0AAV2YWx1ZXNxAH4AC+fLkm90AAR3aGVuc3EAfgALLI4rG3QABmlnbm9yZXNxAH4ACwzwajR0AAhzaG91bGRCZXNxAH4AC7CUbpl0ABxSZXN1bHRPZkluY2x1ZGVXb3JkRm9yU3RyaW5nc3EAfgAL2v+Xb3QAC21hY3JvQXNzZXJ0c3EAfgAL7SDc3HQAAmVxc3EAfgALNrK98HQAGmNvbnZlcnRUb0NoZWNraW5nRXF1YWxpemVyc3EAfgALKmB8EHQAAm9mc3EAfgALKhOKLXQAAistc3EAfgALLfyu3nQACU5vQXJnVGVzdHNxAH4AC3rZAXp0AAE+c3EAfgALTCNOcnQACHJlYWRhYmxlc3EAfgALNJZABHQAAiMjc3EAfgALTdtn9nQAGlN0cmluZ1Nob3VsZFdyYXBwZXJGb3JWZXJic3EAfgALiug4m3QACGZpbmFsaXplc3EAfgALLNpxa3QAG2NvbnZlcnNpb25DaGVja2VkQ29uc3RyYWludHNxAH4AC6hXjq10AAthdE1vc3RPbmVPZnNxAH4ACzFtrk50AAVhbGxPZnNxAH4AC+3JQU90AAhoYXNoQ29kZXNxAH4ACzanoo10AAdzdWl0ZUlkc3EAfgALMMKEcHQACXN1aXRlTmFtZXNxAH4AC6F6/yt0AAxSZWdleFdyYXBwZXJzcQB+AAvze53qdAADdGhlc3EAfgALErPwWXQABG9ubHlzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgH9eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAScnUudGVzdGdlby5UZXN0R2VvdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAJ3NjYWxhLnJlZmxlY3QubWFjcm9zLmludGVybmFsLm1hY3JvSW1wbHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgIXc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+Af1MAAlpbmhlcml0ZWRxAH4B/UwAB3BhcmVudHNxAH4B/XhxAH4CHHNxAH4CF3VxAH4B+AAAAABzcQB+Ahd1cQB+AfgAAAAAc3EAfgIXdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAABZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgIbdAAJU3BhcmtUZXN0c3EAfgIodAAHcGFja2FnZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4CG3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAACcnVzcQB+AjZ0AAd0ZXN0Z2Vvc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AjdzcQB+Aih0AAhNYXRjaGVyc3NxAH4CLnNxAH4CMXVxAH4CNAAAAANzcQB+AjZ0AANvcmdzcQB+AjZ0AAlzY2FsYXRlc3RxAH4CPXNxAH4CKHQACkV4cGxpY2l0bHlzcQB+Ai5zcQB+AjF1cQB+AjQAAAADc3EAfgI2dAADb3Jnc3EAfgI2dAAJc2NhbGFjdGljcQB+Aj1zcQB+Aih0AAxNYXRjaGVyV29yZHNzcQB+Ai5zcQB+AjF1cQB+AjQAAAAEc3EAfgI2dAADb3Jnc3EAfgI2dAAJc2NhbGF0ZXN0c3EAfgI2dAAFd29yZHNxAH4CPXNxAH4CKHQACVRvbGVyYW5jZXEAfgJJc3EAfgIodAAMV29yZFNwZWNMaWtlcQB+AkBzcQB+Aih0AAtEb2N1bWVudGluZ3EAfgJAc3EAfgIodAAIQWxlcnRpbmdxAH4CQHNxAH4CKHQACU5vdGlmeWluZ3EAfgJAc3EAfgIodAAJSW5mb3JtaW5ncQB+AkBzcQB+Aih0AAdDYW5WZXJicQB+AlJzcQB+Aih0AAhNdXN0VmVyYnEAfgJSc3EAfgIodAAKU2hvdWxkVmVyYnEAfgJSc3EAfgIodAAQVGVzdFJlZ2lzdHJhdGlvbnEAfgJAc3EAfgIodAAFU3VpdGVxAH4CQHNxAH4CKHQADFNlcmlhbGl6YWJsZXNxAH4CLnNxAH4CMXVxAH4CNAAAAANzcQB+AjZ0AARqYXZhc3EAfgI2dAACaW9xAH4CPXNxAH4CKHQADUFic3RyYWN0U3VpdGVxAH4CQHNxAH4CKHQACkFzc2VydGlvbnNxAH4CQHNxAH4CKHQADFRyaXBsZUVxdWFsc3EAfgJJc3EAfgIodAATVHJpcGxlRXF1YWxzU3VwcG9ydHEAfgJJc3EAfgIodAAGT2JqZWN0c3EAfgIuc3EAfgIxdXEAfgI0AAAAA3NxAH4CNnEAfgJ3c3EAfgI2dAAEbGFuZ3EAfgI9c3EAfgIodAADQW55c3EAfgIuc3EAfgIxdXEAfgI0AAAAAnNxAH4CNnQABXNjYWxhcQB+Aj11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AApydS50ZXN0Z2Vvc3EAfgKTdAACcnVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWKsQWvsdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQARUM6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXGdlb2FuYWx5c2lzXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKJI1eb8b3FJ5oJ86hmCSIbh7rba
+external apis:
+2 items
+ru.geo.GeoAnalysis$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwGthiEwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwp4XcfHQAC0dlb0FuYWx5c2lzc3EAfgAM+UFr23QABm5vdGlmeXNxAH4ADKpEjX50AA1jaGVja1BheW1lbnRzc3EAfgAMO2g+6XQABHdhaXRzcQB+AAxpa2M9dAANJGFzSW5zdGFuY2VPZnNxAH4ADMmdZYR0AAZlcXVhbHNzcQB+AAwpdfMvdAAMYXNJbnN0YW5jZU9mc3EAfgAMB+kewnQADHN5bmNocm9uaXplZHNxAH4ADGvrkmx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMCzR15XQAD2V4dHJhY3RVc2VyTmFtZXNxAH4ADPn/SZl0AARtYWluc3EAfgAM84yJEnQACW5vdGlmeUFsbHNxAH4ADP5LlCF0AAxpc0luc3RhbmNlT2ZzcQB+AAxiSIfUdAACPT1zcQB+AAxbEbisdAAFY2xvbmVzcQB+AAycwi2udAAVZGVmaW5lR2VvRGV2aWNlR3JvdXBzc3EAfgAMpVLLCnQADGRlZmluZUdyb3Vwc3NxAH4ADH138Gx0AAh0b1N0cmluZ3NxAH4ADInICbZ0AAIhPXNxAH4ADHdv2HJ0AAhnZXRDbGFzc3NxAH4ADNsx8I50AAJuZXNxAH4ADOS9MlB0AAJlcXNxAH4ADAuLvBV0AAIjI3NxAH4ADBJSTrZ0AAhmaW5hbGl6ZXNxAH4ADLjEzF50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJydS5nZW8uR2VvQW5hbHlzaXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBmc3EAfgBhdXEAfgBEAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBKcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHEAfgAjdXEAfgBZAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBlc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXHQABVBsYWludAADYXJnc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB1WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBlc3EAfgB0dAAFQXJyYXlxAH4AenVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB0dAAGU3RyaW5nc3EAfgB4c3EAfgB7dXEAfgB+AAAAA3NxAH4AgHQABGphdmFzcQB+AIB0AARsYW5ncQB+AIVzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXEAfgCZAAAAAnNxAH4AdHQABk9iamVjdHEAfgCdc3EAfgB0dAADQW55cQB+AHp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZydS5nZW9zcQB+AK50AAJydXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqxBUQt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAQzpcVXNlcnNcREVMTFxJZGVhUHJvamVjdHNcZ2VvYW5hbHlzaXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFE2768uJXAeVC9GnRDOiwFEypf8z
+ru.geo.package$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwK0h6gAABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABGc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw91Oj5nQADkRldmljZUdlb0dyb3Vwc3EAfgAMZ8X1UnQABm5vdGlmeXNxAH4ADKqZsz10AAd1bmFwcGx5c3EAfgAMfU4r+XQADHdhcmVob3VzZURpcnNxAH4ADBMT3wt0AAdwYWNrYWdlc3EAfgAMyua4CHQADnByb3hpbWl0eVJhdGlvc3EAfgAMWtsAQ3QACWRldmljZV9pZHNxAH4ADIzG62B0AAR3YWl0c3EAfgAMOvgGEXQADUdlb2RhdGFVc2VySWRzcQB+AAwSIL5CdAAMc3BlbmRlZF90aW1lc3EAfgAMMsaIZXQADG91dGNvbWVfdHJhZnNxAH4ADLstdJl0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADBGo8+Z0AA0kYXNJbnN0YW5jZU9mc3EAfgAMYo7a4nQADmNvcHkkZGVmYXVsdCQ1c3EAfgAMbLskRXQADHByb2R1Y3RBcml0eXNxAH4ADK9sFAJ0AAZlcXVhbHNzcQB+AAz9eN1vdAAOY29weSRkZWZhdWx0JDlzcQB+AAxeiGMUdAAPY29weSRkZWZhdWx0JDEyc3EAfgAMKF85A3QADGFzSW5zdGFuY2VPZnNxAH4ADFK80GF0AA1ncm91cExvY2FsUmFkc3EAfgAMZN/v43QADHN5bmNocm9uaXplZHNxAH4ADDKsI7V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMj+xz+nQADmNvcHkkZGVmYXVsdCQ4c3EAfgAMgg++SHQACGNhbkVxdWFsc3EAfgAMVZWH33QADmNvcHkkZGVmYXVsdCQ0c3EAfgAMnuBFLnQADXByb2R1Y3RQcmVmaXhzcQB+AAyvQzaFdAAJbm90aWZ5QWxsc3EAfgAM1c2BG3QACWxvbmdpdHVkZXNxAH4ADBObzL90AAd1c2VyX2lkc3EAfgAMU4ngkXQACmxvY2FsU3BhcmtzcQB+AAz5s7B9dAAMaXNJbnN0YW5jZU9mc3EAfgAMw36ttXQACWxhdHRpdHVkZXNxAH4ADIVrROd0AAdwYXltZW50c3EAfgAMSp4yrHQABjxpbml0PnNxAH4ADIyNuct0AAtsb2NhbGl0eVJhZHNxAH4ADDGsGTF0AAtpbmNvbWVfdHJhZnNxAH4ADMnMYI10AAVhcHBseXNxAH4ADMQ7t990AARkYXRlc3EAfgAMf0cWSHQAAj09c3EAfgAMmpt5sHQABWNsb25lc3EAfgAMD8kvHHQADmNvcHkkZGVmYXVsdCQ3c3EAfgAMZwxP2XQAD2NvcHkkZGVmYXVsdCQxMHNxAH4ADBCG9cx0AAYkaW5pdCRzcQB+AAyl9fFedAAMTG9jYWxTZXNzaW9uc3EAfgAMQmsYaXQADmNvcHkkZGVmYXVsdCQzc3EAfgAMtxM443QACFVzZXJJbmZvc3EAfgAMIfmTuHQABGNvcHlzcQB+AAwTD/fhdAAIdG9TdHJpbmdzcQB+AAxhJ5A+dAAQb3V0Y29tZVVuaXRQcmljZXNxAH4ADA6VBXJ0AAIhPXNxAH4ADP5O0Cd0AAlwcm90b3R5cGVzcQB+AAxpYD2idAAHR2VvZGF0YXNxAH4ADMPPIoZ0AAhnZXRDbGFzc3NxAH4ADAYFL9l0AAtQYXltZW50SW5mb3NxAH4ADIN9x1t0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADJ58SAN0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADHIEg8x0AAJuZXNxAH4ADHL870N0AApsb2NhbEdyb3Vwc3EAfgAMMrtJtnQAC3VzZXJfbnVtX2lkc3EAfgAM/AVH5nQACXVzZXJfbmFtZXNxAH4ADCX8Bat0AA9jb3B5JGRlZmF1bHQkMTFzcQB+AAw5baJddAAIbW9ja0RhdGFzcQB+AAwoUF17dAAQaXNQYXltZW50Q29ycmVjdHNxAH4ADAxl4XR0AAJlcXNxAH4ADNrYcxV0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAx9apoUdAAPaW5jb21lVW5pdFByaWNlc3EAfgAMFAB+tHQAAiMjc3EAfgAM/txBPXQACGZpbmFsaXplc3EAfgAM4mvsTXQADnByb2R1Y3RFbGVtZW50c3EAfgAMywDehHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ao3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADnJ1Lmdlby5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgC7c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AKNMAAlpbmhlcml0ZWRxAH4Ao0wAB3BhcmVudHNxAH4Ao3hxAH4AwHNxAH4Au3VxAH4AngAAAABzcQB+ALt1cQB+AJ4AAAAAc3EAfgC7dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC/dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC/c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDYdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDZc3EAfgDMdAADQW55c3EAfgDQc3EAfgDTdXEAfgDWAAAAAnNxAH4A2HQABXNjYWxhcQB+AN91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZydS5nZW9zcQB+AOl0AAJydXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqxBUQt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAQzpcVXNlcnNcREVMTFxJZGVhUHJvamVjdHNcZ2VvYW5hbHlzaXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJzhAURZ7lu6AGpkikRou4GLA0Tg
+source infos:
+2 items
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\package.scala -> 
+AAAAAAAAAAA=
+C:\Users\DELL\IdeaProjects\geoanalysis\src\test\scala\ru\testgeo\TestGeo.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqxBa+x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUM6XFVzZXJzXERFTExcSWRlYVByb2plY3RzXGdlb2FuYWx5c2lzXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAAS8=

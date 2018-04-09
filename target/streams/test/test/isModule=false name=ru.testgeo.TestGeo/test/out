@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mTestGeo:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Extract name schema[0m[0m
+[0m[[0minfo[0m] [0m[32m- Extract name logic[0m[0m
+[0m[[0minfo[0m] [0m[32m- Check payment schema[0m[0m
+[0m[[0minfo[0m] [0m[32m- Check payment logic[0m[0m
+[0m[[0minfo[0m] [0m[32m- Geo group schema[0m[0m
+[0m[[0minfo[0m] [0m[32m- Geo group logic[0m[0m
+[0m[[0minfo[0m] [0m[32m- Test GeoAnalysis main[0m[0m
